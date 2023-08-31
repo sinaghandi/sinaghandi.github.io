@@ -34,7 +34,6 @@
 .masthead__menu {
 
   ul {
-    text-align: center;
     margin: 0;
     padding: 0;
     clear: both;
@@ -43,7 +42,7 @@
 }
 
 .masthead__menu-item {
-  display: inline-block;
+  display: block;
   list-style-type: none;
   white-space: nowrap;
 
