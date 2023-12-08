@@ -1,6 +1,6 @@
 ---
 title: "Using Computer Vision for Robot Calibration"
-excerpt: "Automating a lengthy manual process<br/><img src='/images/500x300.png'>"
+excerpt: "Automating a lengthy manual process"
 collection: projects
 ---
 

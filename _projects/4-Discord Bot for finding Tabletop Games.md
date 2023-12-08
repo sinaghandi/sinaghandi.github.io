@@ -1,6 +1,6 @@
 ---
 title: "Streamlining Tabletop Game Scheduling with a Custom Discord Bot"
-excerpt: "Created using discord.py and hosted on Google Cloud<br/><img src='/images/500x300.png'>"
+excerpt: "Created using discord.py and hosted on Google Cloud"
 collection: projects
 ---
 
