@@ -3,7 +3,7 @@ title: "Sensor Array Optimization for Industrial Robot"
 excerpt: "<br/><img src='/images/Sensor_Array_1.png' width='500' height='500'>"
 collection: projects
 ---
-<figure>
+<figure style="width: 500px;">
     <img src='/images/Sensor_Array_2.png'>
     <figcaption>A render of a single sensor array disk. All credit for design, manufacturing, and production of the original disks should go to Colette Abah, Andrew Orekhov, and Garrison Johnston of ARMA labs.</figcaption>
 </figure>
